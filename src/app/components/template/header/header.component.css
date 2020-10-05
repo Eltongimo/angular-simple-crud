@@ -1,0 +1,28 @@
+mat-toolbar{
+  background-color: whitesmoke;
+  min-height: 100px;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+}
+
+.header .logo{
+  max-height: 32px;
+}
+
+.header .title-group{
+  padding-left: 25px;
+}
+
+.header .header-title{
+  padding-left: 25px;
+}
